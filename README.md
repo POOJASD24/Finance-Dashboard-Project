@@ -33,7 +33,7 @@ A clean, interactive personal finance dashboard built with React, Recharts, and 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/finflow-dashboard.git
+git clone https://github.com/POOJASD24/Finance-Dashboard-Project.git
 cd finflow-dashboard
 
 # 2. Install dependencies
